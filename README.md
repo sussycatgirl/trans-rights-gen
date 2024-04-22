@@ -1,0 +1,1 @@
+Script used to generate https://github.com/sussycatgirl/trans-rights :3
